@@ -1,0 +1,16 @@
+{
+  "admob_data": {
+    "app_open_key": "ca-app-pub-4345728927696445/9293237984",
+    "is_app_open": false,
+    "inter_first_key": "ca-app-pub-4345728927696445/2664811535",
+    "is_inter_first_key": true
+  },
+  "applovin_data": {
+    "app_open_key": "00d5083779976490",
+    "is_app_open": false,
+    "inter_first_key": "98a87fe33fbfbbaf",
+    "is_inter_first_key": false
+  },
+  "time_fist": 10,
+  "order_ad": null
+}
