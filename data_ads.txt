@@ -12,5 +12,6 @@
     "is_inter_first_key": false
   },
   "time_fist": 10,
-  "order_ad": null
+  "order_ad": null,
+"admob_splash_show":"sDgK6y9L0HLtPZZNaaJ3cq09Y8ZtCPN8rxksaf4SXto="
 }
