@@ -13,5 +13,5 @@
   },
   "time_fist": 10,
   "order_ad": null,
-"admob_splash_show":"sDgK6y9L0HLtPZZNaaJ3cq09Y8ZtCPN8rxksaf4SXto="
+"admob_splash_show":"123"
 }
